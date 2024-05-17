@@ -1,2 +1,1 @@
-this is a message from newbranch
-master is smelly
+this is a change made on my local pc
