@@ -1,1 +1,2 @@
-foo = oof
+this is a message from newbranch
+master is smelly
